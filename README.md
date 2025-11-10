@@ -1,2 +1,2 @@
 # Cynthia-Winder
-Business Intelligence Analyst, passionate about turning data into actionable insights. Skilled in SQL, Tableau, Excel &amp; Power BI. Lifelong learner transitioning from logistics and operations to tech
+Business Intelligence Analyst with a strong background in logistics, operations, and customer service—now blending that real-world experience with my technical skills to uncover insights and improve business performance. I completed the TripleTen Business Intelligence Program, where I gained hands-on experience with SQL, Tableau, Power BI, and Excel through real-world projects in data analysis and storytelling.
